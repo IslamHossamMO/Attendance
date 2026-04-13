@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 2.",
+    "classId": 10,
+    "sessionsMissing": [
+      2
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T11:51:41.1730786Z"
+  },
+  {
+    "id": 2,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 2.",
+    "classId": 10,
+    "sessionsMissing": [
+      2
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T11:52:22.3900253Z"
+  },
+  {
+    "id": 3,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 2.",
+    "classId": 10,
+    "sessionsMissing": [
+      2
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T11:52:47.0070499Z"
+  },
+  {
+    "id": 4,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 4, 5, 6.",
+    "classId": 10,
+    "sessionsMissing": [
+      4,
+      5,
+      6
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T11:58:37.3929583Z"
+  },
+  {
+    "id": 5,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 4.",
+    "classId": 10,
+    "sessionsMissing": [
+      4
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T11:59:18.1033324Z"
+  },
+  {
+    "id": 6,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 4.",
+    "classId": 10,
+    "sessionsMissing": [
+      4
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T11:59:38.4772577Z"
+  },
+  {
+    "id": 7,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S3 has not been taken for session(s): 2, 5.",
+    "classId": 11,
+    "sessionsMissing": [
+      2,
+      5
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:16:47.2139788Z"
+  },
+  {
+    "id": 8,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S3 has not been taken for session(s): 3, 4.",
+    "classId": 11,
+    "sessionsMissing": [
+      3,
+      4
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:18:04.9906883Z"
+  },
+  {
+    "id": 9,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 3, 4.",
+    "classId": 10,
+    "sessionsMissing": [
+      3,
+      4
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:22:57.3975382Z"
+  },
+  {
+    "id": 10,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 4.",
+    "classId": 10,
+    "sessionsMissing": [
+      4
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:23:22.484697Z"
+  },
+  {
+    "id": 11,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 4.",
+    "classId": 10,
+    "sessionsMissing": [
+      4
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:23:34.294192Z"
+  },
+  {
+    "id": 12,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S2 has not been taken for session(s): 4.",
+    "classId": 10,
+    "sessionsMissing": [
+      4
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:24:26.6867119Z"
+  },
+  {
+    "id": 13,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S4 has not been taken for session(s): 7.",
+    "classId": 12,
+    "sessionsMissing": [
+      7
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:37:48.2741991Z"
+  },
+  {
+    "id": 14,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S4 has not been taken for session(s): 3, 4, 5, 6.",
+    "classId": 12,
+    "sessionsMissing": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:38:06.7603172Z"
+  },
+  {
+    "id": 15,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S4 has not been taken for session(s): 7.",
+    "classId": 12,
+    "sessionsMissing": [
+      7
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:43:04.6068745Z"
+  },
+  {
+    "id": 16,
+    "recipientUserId": 7800,
+    "message": "Attendance for class S3 has not been taken for session(s): 7.",
+    "classId": 11,
+    "sessionsMissing": [
+      7
+    ],
+    "date": "2026-04-09",
+    "isRead": true,
+    "createdAt": "2026-04-09T12:45:29.4435392Z"
+  }
+]

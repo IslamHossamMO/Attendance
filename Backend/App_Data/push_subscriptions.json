@@ -1,0 +1,8 @@
+[
+  {
+    "userId": 7800,
+    "endpoint": "https://fcm.googleapis.com/fcm/send/efzfgTC1tkg:APA91bFZIBYnUxfRcSgrDbL7oXgJngi6XE26bX7MvK25g7b-25LkrDXgeYntL4ZZCGZhpgnT0RKjK4x4o1tMXOKAXCCI7DUlmNC8jsuPDC3zO7Z9wKqZUhM7yq627iMyxnekYM96T2jd",
+    "p256dh": "BLdCtoGU-u8xlsBChoB0RC0eXGIvrtA31ihw13WLx0Ym5KAsJUNb9ZY5vSDhaLQpUxMX4nHsWStDp6o6CZhtP9s",
+    "auth": "7J0Pw-YXACvpZgqfHHXvkA"
+  }
+]
